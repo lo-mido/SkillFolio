@@ -1,3 +1,35 @@
+
+header{
+ display: flex;  
+ flex-wrap: wrap; 
+ border: 1px salmon solid;
+}
+/* insert comment lines 2-6 */
+header h1{
+    width: 50%;
+    border: 1px green solid;
+}
+
+header nav{
+    width: 50%;
+    border: 1px green solid;
+}
+
+nav ul{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-evenly;
+
+}
+ul{
+    list-style-type: none;
+}
+
+font-family: 'IBM Plex Sans Condensed', sans-serif;
+font-family: 'Quicksand', sans-serif;
+
+
+/* added lines 21-23 to remove the bullet points in my code from the ul and li list */ 
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: #333333;
@@ -25,3 +57,87 @@
     background-color: #04AA6D;
     color: white;
   }
+  /* new code start here  */
+  header {
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px red solid;
+}
+
+header h1 {
+    width: 50%;
+    border: 1px black solid;
+}
+
+header nav {
+    width: 50%;
+    border: 1px black solid;
+}
+
+nav ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+figure {
+    background-image: url(https://placehold.co/1024x870);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200px;
+
+}
+
+img {
+    width: 100%;
+}
+
+.left-side {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.left-side .title {
+    width: 10%;
+    border-right: 2px black solid;
+    text-align: right;
+
+}
+
+.left-side .section-container {
+    width: 88%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+
+.card {
+    width: 45%;
+    position: relative;
+    margin-top: 20px;
+}
+.card h3{
+   position: absolute;
+   z-index: 1;
+   bottom: 10%;
+}
+
+.section-container ul{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-evenly;
+   width: 100%;
+}
+#image1{
+   position: relative;
+   margin-top: 20px;
+}
+
+#image1 h3{
+   position: absolute;
+   z-index: 1;
+   bottom: 10%;
+}
+
+
