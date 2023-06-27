@@ -2,6 +2,11 @@ header {
     display: flex;
     flex-wrap: wrap;
     border: 1px salmon solid;
+    justify-content:space-between;
+    padding:0;20px; 
+    width:100%
+    
+
     
 }
 
@@ -122,4 +127,10 @@ body {
     font-weight: 700px; 
 
    
+}
+
+@media screen and (max-width: 850px){
+    .left-side {
+        flex-direction: column;
+    }
 }
