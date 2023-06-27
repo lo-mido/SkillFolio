@@ -1,49 +1,47 @@
 # 02 Portfolio
 
-## This assignment was assigned during our boot camp course to allow students to practice refactoring lines of code and adhere to best practices, aiming to leave the code in a cleaner and more organized state than initially given. The project revolved around HTML and CSS, challenging my understanding of these languages and allowing me to enhance my problem-solving skills. It also allowed me to seek assistance or ask questions whenever I encountered difficulties.
+## During our boot camp course, we were assigned a project aimed at helping us create a portfolio of our work that effectively showcases our skills and talents as web developers. The project focused on utilizing Flexbox, media queries, and CSS variables, allowing us to practice and strengthen our newly acquired skills while creating web applications that can be deployed and used during our job search.
 
-   My motivation behind undertaking this project was to improve my skills in code refactoring, specifically in the context of HTML and CSS. I wanted to enhance my ability to write clean, organized, and maintainable code, which is crucial in professional software development.
+My motivation to complete this project stemmed from the desire to refine my CSS and HTML coding abilities from scratch and to construct a portfolio that effectively demonstrates my talents and skills as a budding web developer. Ultimately, my goal is to enhance my prospects for success by having multiple deployed web applications to present to potential employers.
 
-   Although this project was assigned as homework, my motivation to build it was driven by the desire to consolidate my understanding of HTML and CSS concepts. By actively engaging in refactoring, I aimed to solidify my knowledge and gain hands-on experience in improving code quality.
+The project addresses the problem of students needing to showcase their abilities and attract the attention of prospective employers. By creating and deploying web applications, we can provide tangible evidence of our skills and exhibit our thought processes and problem-solving capabilities. This significantly enhances our employability and increases the likelihood of receiving initial interviews at companies that place importance on reviewing a portfolio of work.
 
-   The primary problem that this project solves is the presence of poorly structured or messy code. Refactoring and organizing the code according to best practices enhances readability, maintainability, and collaboration with other developers. It also improves the overall efficiency of the code, making it easier to identify and fix bugs or add new features in the future.
+Throughout the project, I have learned invaluable skills in web development, including the effective use of Flexbox, media queries, and CSS variables. Additionally, I have gained practical experience in constructing responsive and visually appealing web applications. I understand the significance of having multiple deployed projects in my portfolio, as it sets me apart in the highly competitive job market. This project has given me a comprehensive understanding of how to present my work effectively, highlighting my strengths to potential employers and maximizing my chances of securing desirable opportunities.
 
-   Through this project, I gained valuable insights and learning experiences. I deepened my understanding of HTML and CSS syntax and their respective best practices. Refactoring the code allowed me to explore ways to improve code readability and maintainability. Additionally, I became familiar with using Git and GitHub for version control, enabling me to track changes, collaborate with others, and manage code repositories effectively. Overall, this project broadened my knowledge and skills in web development, refining my ability to write clean and well-structured code.
+## Table of Contents:
 
-## Table of Contents: 
 Paragraph 1: What was the assignment or task?
 Paragraph 2: What was your motivation?
-Paragraph 3: Why did you build this project?
-Paragraph 4 What problem does it solve?
-Paragraph 5:What did you learn?
-
+Paragraph 3: What problem does it solve?
+Paragraph 4 What did you learn? Why did you build this project?
 
 ## Installation
+
 N/A
 
 ## Usage
 
-
-Use this Link: 
-<img src = "./assets/images/Screenshot.png" >
-<a href=“https://lo-mido.github.io/Horiseon.Refactor/”> Link to Live Website.</a>
-
-
+Use this Link:
+<img src ="./assets/images/website.png" >
+<a href="https://lo-mido.github.io/SkillFolio/" > Link to Live Website.</a>
 
 ## Credits: Team Work Make the Dream Work! We worked together systematically on zoom totaling a total of 15+ Hours
+
 Annie Sosa, https://github.com/asosadia88
 Rujane Mena, GitHub.com/rujainemena
 Liz Garcia, https://github.com/bizwliz
-Jovanni Bogardus, https://github.com/jovannibogardus
-Phil Loy 
+Phil Loy
 Lourdes Dorvilus https://github.com/lo-mido
-## Tutorial Links: 
+
+## Tutorial Links:
+
 https://courses.bootcampspot.com/courses/3883/assignments/57119?module_item_id=1004720
 https://www.w3schools.com/css/css_selectors.asp
 https://www.w3schools.com/html/html_attributes.asp
 https://htmlcheatsheet.com/css/
 https://apps.apple.com/us/app/mimo-learn-coding-programming/id1133960732?ppid=36dc2281-6a01-4f94-ad52-05a0a7062255
-https://youtu.be/tRZGeaHPoaw 
+https://youtu.be/tRZGeaHPoaw
+
 ## License
 
 MIT License
@@ -68,9 +66,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-
 ## How to Contribute
-Lourdes M. Dorvilus
-## Tests
-Using VS Code & GIT HUB to host the webpage.
 
+Lourdes M. Dorvilus
+
+## Tests
+
+Using VS Code & GIT HUB to host the webpage.
