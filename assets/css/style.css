@@ -7,12 +7,14 @@ header {
 
 header h1 {
     width: 20%;
-    border: 1px black solid;
-    background-color: salmon;
-    border-radius: 12px;
+    border: 2px rgb(250, 186, 186) solid;
+    background-color: rgb(247, 243, 242);
     padding: 5px;
     outline-style: groove;
     text-shadow: 2px 2px 5px lavenderblush;
+    font-weight: 700px;
+    font-size: xx-large;
+    font-family: ;
 }
 
 header nav {
@@ -24,7 +26,7 @@ header nav {
 nav ul {
     display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: space-between; -flex-align: end;
     
     
 }
@@ -44,6 +46,15 @@ figure {
     background-position: center;
     background-repeat: no-repeat;
 
+}
+image{
+    width: fit-content;
+    height: fit-content;
+    margin: auto;
+    padding: 0;
+    background-image: url(../images/White\ Elegant\ Minimalistic\ Background\ Twitter\ Profile\ Picture.jpg) ;
+    background-position: right;
+    background-repeat: no-repeat;
 }
 
 img {
@@ -102,14 +113,13 @@ a:hover{
    bottom: 10%;
 }
 body {
-    background-color: lightblue;
-    font-family: 'Patrick Hand SC', cursive;
-    font-size: xx-large;
+    background-color:rgb(248, 238, 218);
+    font-family:'Lexend Exa', sans-serif;
+    font-size: medium;
   }
-  header h1{ font-family: 'Patrick Hand SC', cursive;",
-    font-family: "Sofia", sans-serif;
+  header h1{ font-family:'Bonheur Royale', cursive;';
     font-size: xx-large;
-    font-effect: 
+    font-weight: 700px; 
 
    
 }
