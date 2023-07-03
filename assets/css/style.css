@@ -154,3 +154,10 @@ header h1 {
     flex-direction: column;
   }
 }
+@media screen and(max-width: 578px){
+  .card{
+    width: 100%;
+  }
+
+}
+  
